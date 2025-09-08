@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋 I'm Hafizh<br><br><br>🚀I'm a Computer Engineering student passionate about Machine Learning, Artificial Intelligence, and Web Development.<br>I am a technology enthusiast and a dedicated lifelong learner, currently pursuing a D4 degree in Computer Engineering Technology at Politeknik Negeri Semarang. With a deep passion for innovation and cutting-edge technology, I strive to bridge academic theory with real-world applications to create meaningful solutions💻.<br><br>"Training models and my brain at the same time 🧠🤖"  <br>
+Hi there 👋 I'm Hafizh<br><br><br>🚀Computer Engineering student passionate about Machine Learning, Artificial Intelligence, and Web Development.<br>I am a technology enthusiast and a dedicated lifelong learner, currently pursuing a D4 degree in Computer Engineering Technology at Politeknik Negeri Semarang. With a deep passion for innovation and cutting-edge technology, I strive to bridge academic theory with real-world applications to create meaningful solutions💻.<br><br>"Training models and my brain at the same time 🧠🤖"  <br>
 
 
 ## 🌐 Socials:
